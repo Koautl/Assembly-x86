@@ -1,5 +1,5 @@
 Strings
-; Robert Martinez
+; 
 ; 10/11/2023
 
 INCLUDE irvine32.inc
@@ -13,5 +13,6 @@ thingsIenjoy3  BYTE "Chess " , 0
 main PROC
 	exit
 main ENDP
+
 
 END main
